@@ -1,2 +1,3 @@
-# EDA_CropProduction
-Exploratory Data Analysis of Crop Production in India dataset.
+# Exploratory Data Analysis on Crop Production in India
+
+Analyzed  the Agriculture Crop Production dataset and tried to answer some interesting questions. I have downloaded the dataset from Kaggle datasets.The libraries for data analysis and visualization that I have used in this project are Numpy, Pandas, Matplotlib and Seaborn. This dataset is State-wise Crop Production in India for 1997 to 2015 at kaggle (link to dataset - https://www.kaggle.com/abhinand05/crop-production-in-india). Exploratory data analysis of this dataset gave insights into Indian agriculture status: state-wise, district-wise, crop-wise, area-wise and levels of productions. A complete analysis will paint a beautiful story of this important aspect of India.
